@@ -8,12 +8,7 @@
 * **Espaciados:** Small (8px), Medium (16px), Large (32px)
 
 ## 2. Pattern Library (Componentes)
-# 📚 Pattern Library - AuraKids
-
-Esta librería de patrones define los componentes reutilizables de la interfaz de AuraKids, garantizando una experiencia de usuario consistente en todos los módulos de control parental y bienestar.
-
 ---
-
 ## 1. Botones (Buttons)
 Componentes de interacción principal con jerarquía visual clara.
 
