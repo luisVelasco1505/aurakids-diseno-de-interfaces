@@ -1,4 +1,4 @@
-# Etapa 2: Design System - AuraKids
+# Design System - AuraKids
 
 ## 1. Design Tokens
 * **Color Principal:** #4A90E2 (Azul Confianza - para padres)
