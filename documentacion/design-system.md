@@ -7,6 +7,9 @@
 * **Tipografía:** Quicksand (Redondeada y legible)
 * **Espaciados:** Small (8px), Medium (16px), Large (32px)
 
+## 🎨 Prototipo en Figma enlace
+https://www.figma.com/design/LkMizphHQtS0vSCjbQjRYh/tokems?node-id=0-1&t=FagDxFJiC2lDISrW-1
+
 ## 2. Pattern Library (Componentes)
 ---
 # 1. Botones (Buttons)
