@@ -9,7 +9,7 @@
 
 ## 2. Pattern Library (Componentes)
 ---
-## 1. Botones (Buttons)
+# 1. Botones (Buttons)
 Componentes de interacción principal con jerarquía visual clara.
 
 * **Botón Primario (Solid):** Rectángulo gris oscuro con esquinas redondeadas (**10px**) y texto blanco centrado. Uso: *Registrarse*, *Configurar recordatorio*.
@@ -19,7 +19,7 @@ Componentes de interacción principal con jerarquía visual clara.
 
 ---
 
-## 2. Formularios y Entradas (Inputs)
+# 2. Formularios y Entradas 
 Elementos para la captura de datos y configuración de límites.
 
 | Componente | Descripción | Uso |
@@ -31,7 +31,7 @@ Elementos para la captura de datos y configuración de límites.
 
 ---
 
-## 3. Tarjetas y Contenedores (Cards)
+# 3. Tarjetas y Contenedores 
 Estructuras para organizar la información en el Dashboard.
 
 * **Indicator Card (Dashboard):** Tarjeta blanca redondeada con icono circular, título (ej. "Sueño/Descanso") y enlace "Ver más".
@@ -40,7 +40,7 @@ Estructuras para organizar la información en el Dashboard.
 
 ---
 
-## 4. Navegación y Menús (Navigation)
+# 4. Navegación y Menús 
 Estructura constante para el flujo del usuario.
 
 * **Tab Bar (Global):** Barra inferior fija con 4 iconos y etiquetas: *Inicio, Alertas, Acuerdos y Perfil*.
@@ -48,7 +48,7 @@ Estructura constante para el flujo del usuario.
 
 ---
 
-## 5. Componentes Especializados (Bienestar Digital)
+# 5. Componentes Especializados
 Elementos diseñados específicamente para la experiencia AuraKids.
 
 * **Mood Selector:** Fila de 6 iconos gestuales (caritas) con etiquetas: *Feliz, Emocionado, Enfadado, Neutral, Preocupado, Triste*.
