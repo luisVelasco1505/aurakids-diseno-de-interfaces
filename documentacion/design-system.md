@@ -58,6 +58,10 @@ Elementos diseñados específicamente para la experiencia AuraKids.
 * **Progress Tracker:** Sistema de iconos de estrellas para marcar el cumplimiento de metas (ej. "2 de 5 días").
 * **Infographic Block:** Bloques con iconos de seguridad (escudo) para la sección de *Transparencia*.
 
+---------------
+#Link del prototipo en el cual nos basamos para el PATTER LIBRARY 
+* https://www.figma.com/design/ZdJWcUtmy8PLkOEzwDMFw0/wireframes-AuraKids--copia-?node-id=0-1&p=f
+
 ## 3. Reglas del Sistema
 * Los botones de "Bloqueo" siempre deben ser rojos.
 * No usar más de 2 fuentes distintas en una misma pantalla.
