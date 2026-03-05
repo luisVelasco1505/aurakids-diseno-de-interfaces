@@ -64,6 +64,7 @@ Elementos diseñados específicamente para la experiencia AuraKids.
 #Link del prototipo en el cual nos basamos para el PATTER LIBRARY 
 * https://www.figma.com/design/ZdJWcUtmy8PLkOEzwDMFw0/wireframes-AuraKids--copia-?node-id=0-1&p=f
 * <img width="1340" height="849" alt="image" src="https://github.com/user-attachments/assets/3f8056ec-b18c-4e0c-b98e-b1c1388eade0" />
+<img width="356" height="721" alt="image" src="https://github.com/user-attachments/assets/6ec10758-0f0f-4107-81d7-8494381d1ed2" />
 
 
 ## 3. Reglas del Sistema
