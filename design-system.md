@@ -9,6 +9,8 @@
 
 ## 🎨 Prototipo en Figma enlace
 https://www.figma.com/design/LkMizphHQtS0vSCjbQjRYh/tokems?node-id=0-1&t=FagDxFJiC2lDISrW-1
+<img width="1100" height="740" alt="image" src="https://github.com/user-attachments/assets/787da0f9-5a87-4529-af26-f95c26cafbc2" />
+
 
 ## 2. Pattern Library (Componentes)
 ---
